@@ -2565,3 +2565,4 @@ node_modules/dotenv/types/index.d.ts
 node_modules/dotenv/types/test.ts
 node_modules/dotenv/types/tsconfig.json
 node_modules/dotenv/types/tslint.json
+app/controllers/auth.js
